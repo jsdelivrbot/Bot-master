@@ -100,6 +100,7 @@
     "commandslink": "/me :smorc: Bot commands: %%LINK%%",
     "eatcookie": "/me eats a cookie. :lirikFAT: ",
     "nousercookie": "/em doesn't see %%NAME%% in room and eats a cookie himself.",
+    "selfcookie": "/me @%%NAME%%, Eating all the cookies yourself :smug:? Selfish Bastard :Kappa:",
     "cookie": "/me @%%NAMETO%%, @%%NAMEFROM%% %%COOKIE%%",
     "cycleguardtime": "/me [@%%NAME%%] The cycleguard is set to %%TIME%% minute(s).",
     "dclookuprank": "/me [@%%NAME%%] Only bouncers and above can do a lookup for others.",
