@@ -1,11 +1,10 @@
 {
-
-    "nodatafound": "No previous data found.",
+"nodatafound": "No previous data found.",
     "retrievingdata": "Retrieving previously stored data.",
     "datarestored": "Previously stored data successfully retrieved.",
     "greyuser": "Only bouncers and up can run a bot.",
     "bouncer": "The bot can't move people when it's run as a bouncer.",
-    "online": "/me %%BOTNAME%% v%%VERSION%% online!",
+    "online": "/me :smorc: Bot v%%VERSION%% online!",
 
 
     "welcome": "/me Welcome %%NAME%%",
@@ -19,7 +18,7 @@
     "isopen": "/me The roulette is now open! Type !join to participate!",
     "winnerpicked": "/me A winner has been picked! @%%NAME%% to position %%POSITION%%.",
 
-    "ball": "/me %%NAME%%'s question was: \"%%QUESTION%%\" and %%BOTNAME%%'s response is: \"%%RESPONSE%%\"",
+    "ball": "/me %%NAME%%'s question was: \"%%QUESTION%%\" and Trumps response is: \"%%RESPONSE%%\"",
 
     "notghosting": "[%%NAME1%%] %%NAME2%% is not ghosting.",
     "ghosting": "[%%NAME1%%] %%NAME2%% is either ghosting or not here.",
@@ -98,7 +97,7 @@
     "bouncerplusrank": "/me [@%%NAME%%] You have to be manager or up to enable Bouncer+.",
     "chatcleared": "/me [@%%NAME%%] Cleared the chat.",
     "deletechat": "/me [@%%NAME%%] Cleared the chat of %%USERNAME%%.",
-    "commandslink": "/me %%BOTNAME%% commands: %%LINK%%",
+    "commandslink": "/me :smorc: Bot commands: %%LINK%%",
     "eatcookie": "/me eats a cookie.",
     "nousercookie": "/em doesn't see %%NAME%% in room and eats a cookie himself.",
     "selfcookie": "/me @%%NAME%%, you're a bit greedy, aren't you? Giving cookies to yourself, bah. Share some with other people!",
@@ -115,7 +114,7 @@
     "kickrank": "/me [@%%NAME%%] you can't kick users with an equal or higher rank than you!",
     "kick": "/me [@%%NAME%%], @%%USERNAME%% you are being kicked from the community for %%TIME%% minutes.",
     "kill": "/me Shutting down.",
-    "logout": "/me [@%%NAME%%] Logging out %%BOTNAME%%",
+    "logout": "/me [@%%NAME%%] Logging out :smorc: Bot",
     "rouletteleave": "/me @%%NAME%% left the roulette!",
     "songlink": "/me [@%%NAME%%] Link to current song: %%LINK%%",
     "usedlockskip": "/me [%%NAME%% used lockskip.]",
