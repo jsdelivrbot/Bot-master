@@ -4,7 +4,7 @@
     "datarestored": "Previously stored data successfully retrieved.",
     "greyuser": "Only bouncers and up can run a bot.",
     "bouncer": "The bot can't move people when it's run as a bouncer.",
-    "online": "/me :smorc: Bot v%%VERSION%% online!",
+    "online": "/me SmorcBot :smorc: v%%VERSION%% online!",
 
 
     "welcome": "/me Welcome %%NAME%%",
