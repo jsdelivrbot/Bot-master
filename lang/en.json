@@ -115,7 +115,7 @@
     "kick": "/me [@%%NAME%%], @%%USERNAME%% you are being kicked from the community for %%TIME%% minutes.",
     "kill": "/me Rip in pasta.",
     "logout": "/me [@%%NAME%%] Logging out SmorcBot :smorc: ",
-    "rouletteleave": "/me @%%NAME%% left the roulette! pussie :smug: ",
+    "rouletteleave": "/me @%%NAME%% left the roulette! pussy :smug: ",
     "songlink": "/me [@%%NAME%%] Link to current song: %%LINK%%",
     "usedlockskip": "/me [%%NAME%% used lockskip.]",
     "lockskippos": "/me [@%%NAME%%] Lockskip will now move the dj to position %%POSITION%%.",
