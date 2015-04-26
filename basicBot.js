@@ -198,7 +198,7 @@
             startupVolume: 0, // 0-100
             startupEmoji: true, // true or false
             cmdDeletion: true,
-            maximumAfk: 5000,
+            maximumAfk: 500000,
             afkRemoval: false,
             maximumDc: 20,
             bouncerPlus: false,
@@ -280,7 +280,7 @@
             autodisableInterval: null,
             autodisableFunc: function () {
                 if (basicBot.status && basicBot.settings.autodisable) {
-                    API.sendChat('!afkdisable');
+                    API.sendChat('afkdisable');
                     API.sendChat('!joindisable');
                 }
             },
