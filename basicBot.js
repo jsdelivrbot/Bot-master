@@ -2011,7 +2011,7 @@
             },
 
             gifCommand: {
-                command: ['gif', 'giphy'],
+                command: ['spam', 'giphy'],
                 rank: 'user',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
