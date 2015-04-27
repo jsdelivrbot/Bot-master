@@ -2640,7 +2640,7 @@
             },
 
             rektCommand: {
-                command: ['rekt'],
+                command: 'rekt',
                 rank: 'user',
                 type: 'exact',
                 functionality: function (chat, cmd) {
