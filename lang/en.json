@@ -133,6 +133,7 @@
     "oplist": "/me OP list: %%LINK%%",
     "pong": "/me PONG! :pogchamp:",
     "reload": "/me Be right back.",
+    "banners":"/me sorry i don't have any banners :^(",
     "removenotinwl": "/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
     "roomrules": "/me Please find the room rules here: %%LINK%%",
     "sessionstats": "/me [@%%NAME%%] Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",
