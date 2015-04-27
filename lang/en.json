@@ -1,4 +1,4 @@
-{
+﻿{
 "nodatafound": "No previous data found.",
     "retrievingdata": "Retrieving previously stored data.",
     "datarestored": "Previously stored data successfully retrieved.",
@@ -30,7 +30,7 @@
     "usernotfound": "/me User not found .",
     "notdisconnected": "/me @%%NAME%% You Haven't even been here m8.",
     "noposition": "/me No last position known. The waitlist needs to update at least once to register a user's last position.",
-    "toolongago": "/me @%%NAME%%'s last disconnect (DC or leave) was too long ago :smug: : %%TIME%%.",
+    "toolongago": "/me @%%NAME%%'s last disconnect (DC or leave) was too long ago :smug:  %%TIME%%.",
     "valid": "/me @%%NAME%% disconnected %%TIME%% ago and should be at position :smartcat: %%POSITION%%.",
 
 
@@ -133,7 +133,8 @@
     "oplist": "/me OP list: %%LINK%%",
     "pong": "/me PONG! :pogchamp:",
     "reload": "/me Be right back.",
-    "banners":"/me sorry i don't have any banners :^(",
+    "banners": "/me sorry i don't have any banners :^(",
+    "rekt":"/me ☐ Not REKT ☑ LawREKT of Arabia",
     "removenotinwl": "/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
     "roomrules": "/me Please find the room rules here: %%LINK%%",
     "sessionstats": "/me [@%%NAME%%] Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",
