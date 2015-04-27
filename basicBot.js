@@ -2626,7 +2626,7 @@
                 }
             },
 
-            pingCommand: {
+            bannersCommand: {
                 command: ['banners'],
                 rank: 'user',
                 type: 'exact',
