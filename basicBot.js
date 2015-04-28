@@ -2010,7 +2010,7 @@
             },
 
             gifCommand: {
-                command: ['gif', 'giphy'],
+                command: ['spam', 'giphy'],
                 rank: 'user',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
@@ -2052,7 +2052,7 @@
                             function get_random_id(api_key, func)
                             {
                                 $.getJSON(
-                                    "https://api.giphy.com/v1/gifs/random?",
+                                    "https://api.giphy.com/v1/gifs/random?", 
                                     { 
                                         "format": "json",
                                         "api_key": api_key,
@@ -2729,7 +2729,6 @@
                     }
                 }
             },
-
 
 
             purchaseCommand: {
