@@ -140,6 +140,7 @@
     "kolento": "/me http://i.imgur.com/snx5rti.gif",
     "sanic": "/me http://i.imgur.com/GdTWQ7j.gif",
     "cutesanic": "/me http://i.imgur.com/V7lDOxW.gif",
+    "stream": "/me http://www.twitch.tv/forsenlol",
     "removenotinwl": "/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
     "roomrules": "/me Please find the room rules here: %%LINK%%",
     "sessionstats": "/me [@%%NAME%%] Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",
@@ -157,7 +158,7 @@
     "unmuterank": "/me [@%%NAME%%] You can't unmute persons with an equal or higher rank than you.",
     "commandscd": "/me [@%%NAME%%] The cooldown for commands by users is now set to %%TIME%% seconds.",
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w/m): %%RATIO%%.",
-    "website": "/me Please visit our website: %%LINK%%",
+    "website": "/me Stream link %%LINK%%",
     "youtube": "/me [%%NAME%%] Subscribe to us on youtube: %%LINK%%",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M.",
     "purchase": "/me [@%%NAME%%] Stock up on plug notes: https://plug.dj/purchase"
