@@ -143,7 +143,7 @@
     "stream": "/me http://www.twitch.tv/forsenlol",
     "danmark": "/me http://i.imgur.com/VaMXCBV.jpg",
     "removenotinwl": "/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
-    "roomrules": "/me Here are ze rules :forsensheffy: %%LINK%%",
+    "roomrules": "/me Here are ze rules :forsensheffy: http://pastebin.com/6NEPtZW9",
     "sessionstats": "/me [@%%NAME%%] Total woots: %%WOOTS%%, total mehs: %%MEHS%%, total grabs: %%GRABS%%.",
     "skip": "/me [%%NAME%% used skip.]",
     "madeby": "/me This bot was made by the Hobo down the street.",
