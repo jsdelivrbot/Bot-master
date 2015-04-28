@@ -252,7 +252,7 @@
             etaRestriction: false,
             welcome: false,
             opLink: null,
-            rulesLink: "http://pastebin.com/6NEPtZW9",
+            //rulesLink: "http://pastebin.com/6NEPtZW9",
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
