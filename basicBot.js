@@ -2010,7 +2010,7 @@
             },
 
             gifCommand: {
-                command: ['spam', 'giphy'],
+                command: ['gif', 'giphy'],
                 rank: 'user',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
@@ -2022,7 +2022,8 @@
                             function get_id(api_key, fixedtag, func)
                             {
                                 $.getJSON(
-                                    "https://api.giphy.com/v1/gifs/random?", 
+                                    //"https://api.giphy.com/v1/gifs/random?", 
+                                      "http://api.giphy.com/v1/gifs/search?q=fat+woman&api_key=dc6zaTOxFJmzC "
                                     { 
                                         "format": "json",
                                         "api_key": api_key,
@@ -2052,7 +2053,8 @@
                             function get_random_id(api_key, func)
                             {
                                 $.getJSON(
-                                    "https://api.giphy.com/v1/gifs/random?", 
+                                    //"https://api.giphy.com/v1/gifs/random?",
+                                      "http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC "
                                     { 
                                         "format": "json",
                                         "api_key": api_key,
@@ -2730,18 +2732,6 @@
                 }
             },
 
-            gif2Command: {
-                command: 'gif',
-                rank: 'user',
-                type: 'exact',
-                functionality: function (chat, cmd) {
-                    if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
-                    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
-                    else {
-                        API.sendChat(basicBot.chat.gif)
-                    }
-                }
-            },
 
 
             purchaseCommand: {
