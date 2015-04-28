@@ -20,8 +20,8 @@
 
     "ball": "/me %%NAME%%'s question was: \"%%QUESTION%%\" and Trumps response is: \"%%RESPONSE%%\"",
 
-    "notghosting": "[%%NAME1%%] %%NAME2%% is not ghosting.",
-    "ghosting": "[%%NAME1%%] %%NAME2%% is either ghosting or not here.",
+    "notghosting": "[%%NAME1%%] %%NAME2%% is not ghosting.:Ghostbusters:",
+    "ghosting": "[%%NAME1%%] %%NAME2%% is either ghosting or not here.:trkghost:",
 
     "alreadyadding": "/me User is already being added! Rigging the Position to %%POSITION%%.",
     "adding": "/me Added @%%NAME%% to the queue. Current queue: %%POSITION%%.",
@@ -76,7 +76,7 @@
     "timeguard": "timeguard",
     "chatfilter": "chatfilter",
     "historyskip": "historyskip",
-    "lockdown": "lockdown",
+    "lockdown": "Trump Mode Engaged",
     "lockguard": "lockguard",
     "usercommands": "usercommands",
     "motd": "MotD",

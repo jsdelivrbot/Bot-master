@@ -982,7 +982,7 @@
                 ch = msg.charAt(i);
                 if (ch >= 'A' && ch <= 'Z') capitals++;
             }
-            if (capitals >= 40) {
+            if (capitals >= 40000) {
                 API.sendChat(subChat(basicBot.chat.caps, {name: chat.un}));
                 return true;
             }
