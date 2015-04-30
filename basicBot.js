@@ -242,6 +242,7 @@
             "bb pls :babby:",
             "Reply hazy, try again. :youknowit: ",
             "that was a retarded question",
+            "Ask again later. I can’t…I just can’t deal with this right now.",
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
