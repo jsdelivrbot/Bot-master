@@ -4,7 +4,7 @@
     "datarestored": "Previously stored data successfully retrieved.",
     "greyuser": "Plebs can't run this bot :smug:",
     "bouncer": "Just turn it off",
-    "online": "/me SmorcBot :smorc: v%%VERSION%% online!",
+    "online": "-----",
 
 
     "welcome": "/me Welcome %%NAME%%",
